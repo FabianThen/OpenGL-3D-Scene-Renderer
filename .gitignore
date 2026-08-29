@@ -1,0 +1,15 @@
+Debug/
+x64/
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.obj
+*.tlog
+*.log
+*.recipe
+*.dll
+*.sln
+*.vcxproj*
+*.FileListAbsolute.txt
+.DS_Store
